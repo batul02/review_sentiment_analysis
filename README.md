@@ -18,9 +18,9 @@ To execute the code, follow these steps:
    jupyter notebook SE23MAID010_Assign3.ipynb
    ```
 
-5. Follow the instructions and run each cell in the notebook to train the models, process the test data, and evaluate the results.
+3. Follow the instructions and run each cell in the notebook to train the models, process the test data, and evaluate the results.
 
-6. In the notebook, navigate to the 5th index of the Table of Contents titled "Building Word2Vec Model" and proceed with running the code cells from there.
+4. Preprocessed data is attached with the code so if you want to skip the data preprocessing step, in the notebook, navigate to the 5th index of the Table of Contents titled "Building Word2Vec Model" and proceed with running the code cells from there.
 
 ## Implementation Details
 
