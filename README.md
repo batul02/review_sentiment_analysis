@@ -12,15 +12,17 @@ To execute the code, follow these steps:
    pip install -r requirements.txt
    ```
 
-2. Execute the Jupyter Notebook `SE23MAID010_Assign3.ipynb`:
+2. Unzip data and model folders.
+
+3. Execute the Jupyter Notebook `SE23MAID010_Assign3.ipynb`:
 
    ```bash
    jupyter notebook SE23MAID010_Assign3.ipynb
    ```
 
-3. Follow the instructions and run each cell in the notebook to train the models, process the test data, and evaluate the results.
+4. Follow the instructions and run each cell in the notebook to train the models, process the test data, and evaluate the results.
 
-4. Preprocessed data is attached with the code so if you want to skip the data preprocessing step, in the notebook, navigate to the 5th index of the Table of Contents titled "Building Word2Vec Model" and proceed with running the code cells from there.
+5. Preprocessed data is attached with the code so if you want to skip the data preprocessing step, in the notebook, navigate to the 5th index of the Table of Contents titled "Building Word2Vec Model" and proceed with running the code cells from there.
 
 ## Implementation Details
 
