@@ -12,10 +12,10 @@ To execute the code, follow these steps:
    pip install -r requirements.txt
    ```
 
-2. Execute the Jupyter Notebook `sentiment_analysis.ipynb`:
+2. Execute the Jupyter Notebook `SE23MAID010_Assign3.ipynb`:
 
    ```bash
-   jupyter notebook sentiment_analysis.ipynb
+   jupyter notebook SE23MAID010_Assign3.ipynb
    ```
 
 5. Follow the instructions and run each cell in the notebook to train the models, process the test data, and evaluate the results.
