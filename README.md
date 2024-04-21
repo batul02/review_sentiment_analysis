@@ -33,7 +33,6 @@ To execute the code, follow these steps:
 
 - `data/`: Contains the raw data files.
 - `models/`: Stores the trained Word2Vec and FastText models.
-- `results/`: Stores the evaluation results and plots.
 
 ## Results
 
